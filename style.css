@@ -10,5 +10,7 @@ nav {
 }
 
 #featured-property figure {
-  
+  margin-right: auto;
+  margin-left: auto;
 }
+
