@@ -32,7 +32,8 @@ nav a{
 #featured-property p{
   width: 800px;
   display: block;
-  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 
