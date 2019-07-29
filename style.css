@@ -30,8 +30,10 @@ nav a{
 }
 
 #featured-property p{
-  text-align: right;
+  text-align: center;
   width: 800px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 
