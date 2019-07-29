@@ -42,7 +42,9 @@ nav a{
   margin-left: auto;
 }
 
-
+#details{
+  display: block;
+}
 
 
 
