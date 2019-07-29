@@ -44,11 +44,14 @@ nav a{
 
 #details{
   display: block;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 #details div{
   float: left;
   text-align: center;
+  
 }
 
 
