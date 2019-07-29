@@ -44,6 +44,8 @@ nav a{
 
 #details div{
   display: block;
+  margin-right: auto;
+  margin-left: auto;
   float: left;
   text-align: center;
 }
