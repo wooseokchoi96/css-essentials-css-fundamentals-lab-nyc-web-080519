@@ -4,16 +4,19 @@ body{
   margin: 0;
 }
 
+/* update header */
 h1{
   text-align: center;
 }
 
+/* center image */
 #featured-property img{
   display: block;
   margin-right: auto;
   margin-left: auto;
 }
 
+/* center image caption */
 #featured-property figcaption{
   font-size: .85em;
   text-align: center;
