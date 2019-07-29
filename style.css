@@ -42,16 +42,10 @@ nav a{
   margin-left: auto;
 }
 
-#details{
-  display: block;
-  margin-right: auto;
-  margin-left: auto;
-}
-
 #details div{
+  display: block;
   float: left;
   text-align: center;
-  
 }
 
 
