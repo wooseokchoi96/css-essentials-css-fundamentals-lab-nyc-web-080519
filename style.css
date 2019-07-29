@@ -9,3 +9,8 @@ h1{
   text-align: center;
 }
 
+#featured-property img{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
