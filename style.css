@@ -46,7 +46,7 @@ nav a{
   display: block;
   margin-right: auto;
   margin-left: auto;
-  
+  float: left;
   text-align: center;
 }
 
